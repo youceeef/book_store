@@ -7,10 +7,11 @@
                 <!-- Logo -->
                 <div class="flex-shrink-0 flex items-center">
                     <a href="{{ route('home') }}" class="flex items-center space-x-2">
-                        <x-application-logo class="block h-10 w-auto" />
+                        <img src="{{ asset('book-icon.png') }}" alt="Book Icon" class="h-10 w-auto">
                         <span class="hidden md:block text-lg font-bold text-gray-900">BookStore</span>
                     </a>
                 </div>
+
 
                 <!-- Navigation Links -->
                 <div class="hidden sm:ml-10 sm:flex sm:space-x-8">
