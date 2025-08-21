@@ -9,7 +9,7 @@ It provides a platform for users to browse and purchase books, and for administr
 
 ### Homepage
 
-![Homepage](docs/home.png)
+![Homepage](docs/homepage.png)
 
 ### Book Details
 
