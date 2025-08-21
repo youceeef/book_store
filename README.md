@@ -19,9 +19,33 @@ It provides a platform for users to browse and purchase books, and for administr
 
 ![Shopping Cart](docs/cart.png)
 
+### Apply Coupons
+
+![Shopping Cart](docs/apply-coupons.png)
+
+### Checkout
+
+![Checkout](docs/checkout.png)
+
+### Order History
+
+![Order History](docs/clients_order.png)
+
 ### Admin Dashboard
 
-![Admin Dashboard](docs/admin-dashboard.png)
+![Admin Dashboard](docs/admin_dashboard.png)
+
+### Admin Coupons
+
+![Admin Dashboard](docs/admin_coupons.png)
+
+### Admin Category
+
+![Admin Dashboard](docs/admin_categories.png)
+
+### Admin Books
+
+![Admin Dashboard](docs/admin_books.png)
 
 > 💡 **Tip:** Keep your screenshots clean and cropped to the essential UI so they load fast and stay focused.
 
