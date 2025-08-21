@@ -21,7 +21,7 @@ It provides a platform for users to browse and purchase books, and for administr
 
 ### Apply Coupons
 
-![Apply Coupons](docs/apply-coupon.png)
+![Apply Coupons](docs/apply_coupon.png)
 
 ### Checkout
 
